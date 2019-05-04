@@ -2,7 +2,7 @@
   "name": "babylon-npm-webpack-boilerplate",
   "version": "1.0.0",
   "description": "Boilerplate for Babylon.js",
-  "main": "js/index.js",
+  "main": "index.js",
   "scripts": {
     "dev": "NODE_ENV=development webpack-dev-server --config ./webpack.config.js --open --hot --color",
     "prod": "NODE_ENV=production webpack --progress --hide-modules",

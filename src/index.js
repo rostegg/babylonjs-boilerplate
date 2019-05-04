@@ -1,4 +1,4 @@
-import Game from './Game.js'
+import Game from './components/Game'
 
 window.addEventListener('DOMContentLoaded', () => {
   let game = new Game('babylonCanvas')
